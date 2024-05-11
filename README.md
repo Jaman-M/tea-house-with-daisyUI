@@ -12,3 +12,6 @@ live site: [Tea House](https://superb-toffee-22ca4f.netlify.app/).
 ### `live site:` 
 
 live site link: [https://superb-toffee-22ca4f.netlify.app/](https://superb-toffee-22ca4f.netlify.app/)
+
+### `Warnings` 
+- Some `Google Fonts` are used. So small error can be seen from `China`. In that case, `VPN` can be used.
